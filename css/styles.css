@@ -8,8 +8,17 @@ body {
     background: #FFFFFF;
 
 }
-.list-li{
+.nav-list .list-li{
     list-style-type: none;
+    letter-spacing: 0.02em;
+}
+
+.nav-list .list-li:hover{
+    color: #404bbf;
+}
+
+.nav-list .list-li:focus{
+    color: #404bbf;
 }
 
 .link{
