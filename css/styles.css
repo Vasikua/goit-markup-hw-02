@@ -8,7 +8,7 @@ body {
     background: #FFFFFF;
 
 }
-.nav-list {
+.nav-list a{
     list-style-type: none;
     letter-spacing: 0.02em;
     font-weight: 500;
@@ -18,11 +18,11 @@ body {
     color: #2e2f42;
 }
 
-.nav-list:hover{
+.nav-list a:hover{
     color: #404bbf;
 }
 
-.nav-list:focus{
+.nav-list a:focus{
     color: #404bbf;
 }
 
