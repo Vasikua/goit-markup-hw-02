@@ -4,10 +4,12 @@ body {
     background-color: #FFFFFF; 
    
 }
+/*header*/
 .header{
     background: #FFFFFF;
 
 }
+/*navigation properties*/
 .nav-list a{
     list-style-type: none;
     letter-spacing: 0.02em;
@@ -34,7 +36,7 @@ body {
     letter-spacing: normal;
     
 }
-
+/*logotipe properties*/
 .logo{ 
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
